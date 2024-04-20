@@ -2,3 +2,5 @@
 2. Decide which type of pizza to order
 
 3.what if they send you the wrong order?
+4.Make them tip
+5.Find alternatives to making them tip.
